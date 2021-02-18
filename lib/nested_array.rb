@@ -30,6 +30,7 @@ def assembled_matrix
     "Oranges",
     "Watermelon",
     "Eggplant"
+  ]
   [ORGANIC_PRODUCE, CONVENTIONAL_PRODUCE]
   # Build an array that contains both of the above arrays
   # This matrix will represent a produce storage room
